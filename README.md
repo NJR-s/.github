@@ -1,6 +1,6 @@
 <h1 align="center">🌟 <b>Welcome to NJR GitHub Organization</b> 🌟</h1>
 
-<div align="center"> <img src="#"> </div>
+<div align="center"> <img src="https://github.com/NJR-s/.github/blob/main/profile/ico.png"> </div>
 
 ## 🌐 About NJR
 ✨ NJR is a vibrant community of developers, tech enthusiasts, and creators! ✨
